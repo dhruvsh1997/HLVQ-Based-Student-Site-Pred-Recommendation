@@ -132,7 +132,7 @@ Grades are assigned based on the following criteria:
 | 55-65 | D |
 | 40-55 | E |
 
-A new `Grade` column is added to the dataset for clearer performance categorization.
+A new `Grade` column is added to the dataset for clear performance categorization.
 
 ### Visualizations
 
